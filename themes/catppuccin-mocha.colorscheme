@@ -1,14 +1,20 @@
 [Background]
 Color=30,30,46
+RandomHueRange=360
+RandomSaturationRange=100
 
 [BackgroundFaint]
 Color=30,30,46
+RandomHueRange=360
+RandomSaturationRange=100
 
 [BackgroundIntense]
 Color=30,30,46
+RandomHueRange=360
+RandomSaturationRange=100
 
 [Color0]
-Color=108,112,134
+Color=40,40,51
 
 [Color0Faint]
 Color=108,112,134
@@ -44,7 +50,7 @@ Color=249,226,175
 Color=249,226,175
 
 [Color4]
-Color=137,180,250
+Color=40,40,51
 
 [Color4Faint]
 Color=137,180,250
@@ -81,16 +87,26 @@ Color=205,214,244
 
 [Foreground]
 Color=205,214,244
+RandomHueRange=360
+RandomSaturationRange=100
 
 [ForegroundFaint]
 Color=205,214,244
+RandomHueRange=360
+RandomSaturationRange=100
 
 [ForegroundIntense]
 Color=205,214,244
+RandomHueRange=360
+RandomSaturationRange=100
 
 [General]
+Anchor=0.5,0.5
 Blur=false
 ColorRandomization=false
 Description=Catppuccin Mocha
+FillStyle=Tile
 Opacity=1
 Wallpaper=
+WallpaperFlipType=NoFlip
+WallpaperOpacity=1

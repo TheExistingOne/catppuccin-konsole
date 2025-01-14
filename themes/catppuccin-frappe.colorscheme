@@ -8,7 +8,7 @@ Color=48,52,70
 Color=48,52,70
 
 [Color0]
-Color=115,121,148
+Color=48,52,70
 
 [Color0Faint]
 Color=115,121,148
@@ -44,7 +44,7 @@ Color=229,200,144
 Color=229,200,144
 
 [Color4]
-Color=140,170,238
+Color=48,52,70
 
 [Color4Faint]
 Color=140,170,238
@@ -89,8 +89,12 @@ Color=198,208,245
 Color=198,208,245
 
 [General]
+Anchor=0.5,0.5
 Blur=false
 ColorRandomization=false
 Description=Catppuccin Frappé
+FillStyle=Tile
 Opacity=1
 Wallpaper=
+WallpaperFlipType=NoFlip
+WallpaperOpacity=1
